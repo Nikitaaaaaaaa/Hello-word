@@ -1,2 +1,4 @@
 # Hello-word
-nikitos
+Hello everybady 
+I want bigmac and learn programming
+
